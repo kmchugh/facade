@@ -1,0 +1,14 @@
+facade Application XSLT Transformation
+======================================
+
+facade is an XSLT language definition and template engine used
+to define UI elements from XML and transform them to UI views.
+
+A use case of a facade template would be to create a UI  definition
+and render that definition to a web page, or an awt window for example.
+
+The expectation is that the end result of a transformation is renderable
+by a library specific to the UI being generated.
+
+
+
